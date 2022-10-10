@@ -3,8 +3,8 @@
 ## Producer
 
 This is the `producer` of the food ordering simulation of the second laboratory work at Network Programming course.
-The `aggregator` part: https://github.com/eugencic/utm-food-ordering-aggregator
-The `consumer` part: https://github.com/eugencic/utm-food-ordering-consumer
+* The `aggregator` part: https://github.com/eugencic/utm-food-ordering-aggregator
+* The `consumer` part: https://github.com/eugencic/utm-food-ordering-consumer
 
 ## Minimum Acceptance Criteria
 
