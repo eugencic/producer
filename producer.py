@@ -30,7 +30,7 @@ def create_client(name):
 
 def run_producer():
     producer_thread = Thread(target = lambda: app.run(host = '0.0.0.0', port = 4000, debug = False, use_reloader = False), daemon = True)
-    producer_thread.start()
+    threads.append(producer_thread)
     sleep(2)
     client_thread_name = 1
     for _ in range(7):
