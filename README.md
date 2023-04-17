@@ -1,10 +1,10 @@
-# PR laboratory No.2
+# Network Programming laboratory No.2
 
 ## Producer
 
 This is the `producer` of the food ordering simulation of the second laboratory work at Network Programming course.
-* The `aggregator` part: https://github.com/eugencic/utm-food-ordering-aggregator
-* The `consumer` part: https://github.com/eugencic/utm-food-ordering-consumer
+* The `aggregator` part: https://github.com/eugencic/aggregator
+* The `consumer` part: https://github.com/eugencic/consumer
 
 ## Minimum Acceptance Criteria
 
@@ -27,7 +27,7 @@ that extracted data element from second server to the ﬁrst, initial producer s
 
 ### Clone the repository
 ```bash
-$ git clone https://github.com/eugencic/utm-food-ordering-producer
+$ git clone https://github.com/eugencic/producer
 ```
 
 ### Start the servers
